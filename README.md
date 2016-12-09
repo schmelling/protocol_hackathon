@@ -10,7 +10,7 @@ Ever spend hours on searching for the protocol that was used in a paper? It can 
 
 ### How to get involved
 
-You can either attend the hackathon at HHU in Düsseldorf. However, we have only limited space so please let me know if you consider showing up in person by simply writing me an (email](mailto:nicolasschmelling@gmail.com).
+You can either attend the hackathon at HHU in Düsseldorf. However, we have only limited space so please let me know if you consider showing up in person by simply writing me an [email](mailto:nicolasschmelling@gmail.com).
 
 If you want to connect from outside, I have an [etherpad](https://public.etherpad-mozilla.org/p/dfttlIanxu) set up for you or you can use the issue tracker in the [GitHub repo](https://github.com/schmelling/protocol_hackathon). I try to post some tasks prior to the hackathon that you can work on in case you don't have any protocols to upload to protocols.io.
 
