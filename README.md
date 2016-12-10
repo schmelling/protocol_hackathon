@@ -20,14 +20,16 @@ __Location: Heinrich-Heine University Düsseldorf, Room:tba__
 #### 19. December 2016
 Time | Session
 ---- | -------
-09:00 - 10:00 | [ORCID](https://orcid.org) Set up + Introduction to [protocols.io](https://www.protocols.io) (Mabye broadcasted on YouTube)
-10:00 - 10:30 | How to upload a new protocol (Mabye broadcasted on YouTube)
+09:00 - 10:00 | [ORCID](https://orcid.org) Set up + Introduction to [protocols.io](https://www.protocols.io) *
+10:00 - 10:30 | How to upload a new protocol *
 10:30 - 12:00 | Hackathon Session I
 12:00 - 13:00 | Lunch
 13:00 - 18:00 | Hackathon Session II
-18:00 - open end | Pizza & Beer *
+18:00 - open end | Pizza & Beer **
 
-<nowiki>*</nowiki> for motivated people: Hackathon Session II.2
+<nowiki>*</nowiki> screensharing via Google Hangouts possible if requested/needed
+
+<nowiki>**</nowiki> for motivated people: Hackathon Session II.2
 
 #### 20. December 2016
 Time | Session
