@@ -64,4 +64,4 @@ More and more people use lab management platforms such as LabGuru, or write digi
 
 Even though we found some issues with protocols.io, I think it is a fabulous tool for any wetlab researcher. Highly recommended.
 
-- Cheers, Nic
+-- Cheers, Nic
